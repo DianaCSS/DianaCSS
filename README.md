@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF9800&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Diana+Santos;I'm+a+Brazilian+Linguist;On+my+way+to+become+a+Data+Scientist;Nice+to+meet+you+:%29)](https://git.io/typing-svg)
 
-<h1 align="center">Hi, I'm Diana</h1>
+
 <h3 align="center">A passionate Linguist who found in Data Science another passion</h3>
 
 - 🔭 I’m currently working on **English Collab and Volunteering in Data Science Projects**
